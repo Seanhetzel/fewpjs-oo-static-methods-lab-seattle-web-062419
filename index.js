@@ -1,6 +1,6 @@
 class Formatter {
   static capitalize(string){
-    string.charAt(0).ToUpperCase
+    return string.charAt(0).ToUpperCase
   }
 
 }
